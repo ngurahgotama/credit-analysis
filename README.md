@@ -5,7 +5,7 @@ In this project, an analysis was conducted to find out how the customer's charac
 
 ## Data Sources
 
-The data used is the result of an assessment of the score at a particular bank by displaying information on the characteristics of the bank's customers.
+The data used is the result of an assessment of the score at a particular bank by displaying contains information on credit scores, demographic variables, financial indicators, and loan outcomeson the characteristics of the bank's customers.
 ![](https://github.com/ngurahgotama/credit-analysis/blob/main/Screenshot%20from%202023-05-24%2021-31-30.png)
 ## Technologies Used
 - Python
