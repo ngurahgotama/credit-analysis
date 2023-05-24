@@ -15,6 +15,7 @@ The data used is the result of an assessment of the score at a particular bank b
 ## Analysis
 The analysis involves several steps:
 - Data cleaning and preprocessing: Handle missing values, perform data transformations, and merge relevant datasets if necessary.
+- ![](https://github.com/ngurahgotama/credit-analysis/blob/main/Screenshot%20from%202023-05-24%2021-48-50.png)
 
 ## Conclusion
 There is an influence on the number of children with the potential to default on the submitted credit. This shows that clients who have children automatically have higher expenses. Higher expenses make it more difficult for customers' finances to pay credit loans on time.
