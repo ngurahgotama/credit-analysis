@@ -12,6 +12,9 @@ The data used is the result of an assessment of the score at a particular bank b
 - Jupyter Notebook
 - Pandas
 
+## Analysis
+The analysis involves several steps:
+- Data cleaning and preprocessing: Handle missing values, perform data transformations, and merge relevant datasets if necessary.
 
 ## Conclusion
 There is an influence on the number of children with the potential to default on the submitted credit. This shows that clients who have children automatically have higher expenses. Higher expenses make it more difficult for customers' finances to pay credit loans on time.
